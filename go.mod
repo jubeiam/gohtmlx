@@ -1,4 +1,4 @@
-module github.com/jubeiam/gohtmlx.git
+module github.com/jubeiam/goxhtml.git
 
 go 1.20
 
